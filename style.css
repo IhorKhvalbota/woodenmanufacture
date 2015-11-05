@@ -1,0 +1,154 @@
+
+html{
+	background:url(images/fin.png) no-repeat;
+	position: relative;
+	max-width: 1278px;
+	max-height: 768px;
+}
+body{
+	padding-top: 0px;
+	margin-top: 0px;
+	position: absolute;
+	top:0px;
+	left: 13.5%;
+    background:url(images/secondfon.png) no-repeat;
+	font-family: helvetica,arial,san serif;
+	font-size: 100%;
+
+}
+div #icon{
+	float: left;
+	margin-top: 43px;
+	margin-left: 30px;
+}
+div #brunch{
+	float: right;
+	margin-top: -21px;
+	padding-top: 0px;
+
+}
+div .outsource{
+	margin-top:-20px;
+	float:right;
+	margin-right: 150px;
+
+}
+div #navbar{
+	margin-top: 67px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	margin-left: 20px;
+
+	word-spacing: 10px;
+}
+div #navbar, div #outspurce{
+	display: inline-block;
+}
+
+div #search{
+	margin-right: -347px;
+	float: right;
+	margin-top: 75px;
+}
+div #searchtool{
+	margin-right: -340px;
+	float: right;
+	margin-top: 78px;
+}
+div #form{
+	margin-right: -300px;
+	float: right;
+	margin-top: -56px;
+}
+div #p{
+	padding-top: 0px;
+}
+div #h1{
+	color: #243841;padding: -10px;
+	padding-top: -20px;
+	
+
+}
+a{color: #777161;
+	text-decoration: none;
+}
+ 
+a:hover{
+	text-decoration: underline;
+
+}
+
+div #image1,div #image2{
+	display: inline-block;
+	padding-left: 50px;	
+margin-top: -45px;
+	
+
+}
+hr {
+	background-color: #603813;
+	height: 1px;
+	width: 80%;
+	border-width: 1;
+	-ms-margin-left:12%;
+margin-left: 4%;
+}
+div #hrdescript1,div #hrdescript2{
+	width: 100%;
+	margin-left:0.2%;
+}
+
+div #hr{
+	width: 85%;
+		-ms-margin-left:12%;
+	margin-left: 1.2%;
+}
+div #descript1{
+	width: 36%;
+	          float: left;   
+	          margin-left: 4%;
+}
+div #descript2{
+	width: 36%;
+	float: right;
+	margin-right: 16%;
+}
+
+
+div #click{
+	padding: 5px;
+}
+div .img{
+	padding: 5%;
+	padding-left: 30%;
+}
+div #about{
+	margin-left: 4%;
+	margin-right: 16%;
+}
+div #contact{
+    float: left;
+    margin-left: 4%;
+}
+div #address{
+
+   padding: 5px; 
+   margin-top: 30px;
+    float: right; 
+    margin-right: 16%;
+}
+
+div #footer{
+	font-family: 'Times New Roman';
+	color: 423c31;
+	font-size: 10px;
+margin-top: 3%;
+	margin-left: 4%;
+}
+h3,h4{
+	color: #81a33d;
+
+}
+h3{
+	text-align: center;
+}
